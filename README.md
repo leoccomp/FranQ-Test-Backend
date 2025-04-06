@@ -30,7 +30,7 @@ npm install
 3. Inicie o servidor:
 
 ```bash
-node index.js
+node server.js
 ```
 
 > O servidor será iniciado em: [http://localhost:3001](http://localhost:3001)
